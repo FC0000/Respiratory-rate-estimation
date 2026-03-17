@@ -219,7 +219,6 @@ ax3d.set_zticks([])
 # Define arrow directions and lengths
 arrow_directions = np.array([[1, 0, 0], [0, 1, 0], [0, 0, 1]])
 
-# Plot arrows
 # Initial quivers
 quiv_quat = ax3d.quiver([0,0,0],[0,0,0],[0,0,0],
                         [1,0,0],[0,1,0],[0,0,1],
