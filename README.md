@@ -1,2 +1,2 @@
-# Laboratory of Computational Physics (Mod A) Final Project
-## Respiratory Rate Estimation
+# Laboratory of Computational Physics (Mod A) - Final Project
+** Respiratory Rate Estimation **
